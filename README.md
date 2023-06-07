@@ -1,6 +1,6 @@
 # OFSTYLE - O toque de elegancia que faltava no seu dia a dia!
 
-[Projeto desenvolvido para aula de Desenvolvimento Web]
+[Projeto desenvolvido para aula Programação Web]
 
 <h1 align = "center"> <img src = "https://github.com/xrdaniel/OFStyle/assets/125705404/9f07ac95-f65b-42a9-97ad-72bea21b96e9" /><h1/>
 
